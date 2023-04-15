@@ -29,3 +29,10 @@ There are 6-dimesion tables and 2 fact tables. The dimension tables are all join
 Model
 :----------------------:
 ![](Data_model.png)
+
+## Visualization
+The report comprises 3 pages:
+1.  Executive Summary
+2.  Product Detail
+3.  Customer Detail
+4.  Insights & Recommendation
