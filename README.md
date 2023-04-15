@@ -21,3 +21,11 @@ The datasets contain a folder of raw csv files about transactions, returns, prod
 - Build a relational data model
 - Create new calculated columns and DAX measures
 - Design an interactive report to analyze and visualize the datasets
+
+## Modelling
+
+There are 6-dimesion tables and 2 fact tables. The dimension tables are all joined to the fact table.
+
+Model
+:----------------------:
+![](Data_model.png)
