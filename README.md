@@ -36,3 +36,20 @@ The report comprises 3 pages:
 2.  Product Detail
 3.  Customer Detail
 4.  Insights & Recommendation
+
+This is the preview of the dashboard:
+
+Executive Summary
+:----------------------:
+![](Dashboard_1.png)
+
+Product Detail
+:----------------------:
+![](Dashboard_2.png)
+
+Customer Detail
+:----------------------:
+![](Dashboard_3.png)
+
+You can interact with the report here (https://1drv.ms/u/s!ArJ9eZQ-YoizhGlaXAV5pItBfTbO?e=awWkkY)
+
