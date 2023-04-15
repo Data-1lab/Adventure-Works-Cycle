@@ -55,5 +55,6 @@ You can interact with the report here (https://1drv.ms/u/s!ArikmP7m-jOFak3BgGDtu
 
 ## Insights & recommendations:
 
+- The top 5 high value customers are Jordan Turner, Maurice Shan, Janet Munoz, Lisa Cai and Lacey Zheng.
 - 
 
