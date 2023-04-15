@@ -51,5 +51,5 @@ Customer Detail
 :----------------------:
 ![](Dashboard_3.png)
 
-You can interact with the report here (https://1drv.ms/u/s!ArJ9eZQ-YoizhGlaXAV5pItBfTbO?e=awWkkY)
+You can interact with the report here ("C:\Users\ifefe\OneDrive\AdventureWorks_Project.pbix")
 
