@@ -56,5 +56,6 @@ You can interact with the report here (https://1drv.ms/u/s!ArikmP7m-jOFak3BgGDtu
 ## Insights & recommendations:
 
 - The top 5 high value customers are Jordan Turner, Maurice Shan, Janet Munoz, Lisa Cai and Lacey Zheng.
+- The highest revenue of $659,303 was generated in France whilst the least revenue ($3,142)was received from the Central region.
+- The top product by order was Water Bottle- 30 oz whilst the top product by profit was Mountain -200 Black, 46.
 - 
-
